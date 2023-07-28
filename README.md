@@ -11,4 +11,4 @@
   <img style='cursor: none' src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?LiiChar=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiiChar&hide_progress=true)
